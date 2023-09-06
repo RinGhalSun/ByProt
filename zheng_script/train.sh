@@ -1,4 +1,4 @@
-export CUDA_VISIBLE_DEVICES=0
+export CUDA_VISIBLE_DEVICES=5
 
 exp=fixedbb/lm_design_esm1b_650m
 dataset=cath_4.2
